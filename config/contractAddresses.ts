@@ -11,7 +11,7 @@ interface IAddresses {
  */
 const ADDRESSES: IAddresses = {
   [ChainId.Goerli]: {
-    Marketplace: "0x14f3d32B90Ede9922Fd7EE4FDfD3AabbEA423aD0",
+    Marketplace: "0x19fBd1f9192b3cBB866c688f1f23cDD78364e496",
   },
 };
 
